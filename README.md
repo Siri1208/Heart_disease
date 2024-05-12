@@ -1,1 +1,4 @@
 Heart disease data analysis using the Python library pandas involves loading datasets, cleaning and preprocessing data, and performing various analyses such as descriptive statistics, correlation, and visualization through graphs. With pandas, tasks like data manipulation, filtering, and aggregation become streamlined, enabling efficient exploration of factors influencing heart disease. Visualization tools like matplotlib or seaborn complement pandas, providing graphical insights into trends, patterns, and relationships within the data. This integrated approach facilitates comprehensive understanding and interpretation of factors associated with heart disease, aiding in research, diagnosis, and preventive measures.
+Violin plots can visually represent the distribution of diseases among patients, aiding in disease categorization and analysis.
+Outliers are found by using distriution graph 
+correalation graphs are found by using heatmap,jointplots,pairplots
